@@ -1,0 +1,31 @@
+body {
+    background-color: pink;
+}
+
+label {
+    display: inline-block;
+    width: 60px;
+    text-align: right;
+}
+
+label {
+    display: inline-block;
+    text-align: left;
+}
+
+.noun {
+    font-size: 25px;
+}
+
+.verb {
+    font-size: 25px;
+}
+
+.adjective {
+    font-size: 25px;
+}
+
+.color {
+    font-size: 25px;
+}
+
